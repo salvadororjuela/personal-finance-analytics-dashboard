@@ -70,6 +70,16 @@ High-level financial performance through KPI cards, expense distribution, monthl
 ### Spending Analysis
 Detailed spending analysis through expense distribution by category, average expense by category, monthly expenses, and payment-method analysis.
 
+## Dashboard Preview
+
+### Financial Overview
+
+![Financial Overview](screenshots/financial-overview.png)
+
+### Spending Analysis
+
+![Spending Analysis](screenshots/spending-analysis.png)
+
 ## Validation & Quality Assurance
 Power BI results were reconciled against the underlying Excel analysis. Key totals, monthly expenses, categories, payment methods, and derived indicators matched.
 
