@@ -1,7 +1,7 @@
 # Personal Finance Analytics Dashboard
 
 ## Executive Summary
-Personal Finance Analytics Dashboard is a Power BI project designed to transform transaction-level financial data into an interactive analytical solution for monitoring personal financial performance and spending behavior.
+Personal Finance Analytics Dashboard is an end-to-end Power BI analytics project demonstrating data preparation, dimensional modeling, DAX development, interactive dashboard design, validation, and business insight generation.
 
 The project uses a synthetic dataset of 37 financial transactions covering a three-month period in 2026. Data was prepared using Power Query, modeled using a dedicated date dimension, and analyzed through DAX measures.
 
