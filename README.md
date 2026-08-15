@@ -7,6 +7,13 @@ The project uses a synthetic dataset of 37 financial transactions covering a thr
 
 The final two-page dashboard provides an overview of income, expenses, net cash flow, and savings rate, while enabling detailed analysis of spending categories, monthly trends, and payment methods.
 
+## Project Files
+
+- **Power BI Dashboard** — [Power BI Desktop file](Power-BI/Personal_Finance_Analytics_Dashboard.pbix)
+- **Source Dataset** — [Excel source data](data/)
+- **Dashboard Screenshots** — [Dashboard previews](screenshots/)
+- **Project Documentation** — [Technical documentation](documentation/)
+
 ## Business Problem
 The objective was to transform transaction-level financial data into an interactive Business Intelligence solution that makes financial performance and spending behavior easier to understand.
 
