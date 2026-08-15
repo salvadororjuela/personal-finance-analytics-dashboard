@@ -29,6 +29,12 @@ Synthetic personal finance transaction dataset created specifically for the proj
 
 Power Query preparation included source navigation, data-type changes, a custom column, removal of unnecessary columns, column reordering, additional type adjustments, and renaming `Correct Date` to `Date`.
 
+## Project Scope & Limitations
+
+This project uses a synthetic dataset containing 37 financial transactions across a three-month period in 2026. The dataset was intentionally designed to demonstrate an end-to-end Power BI analytics workflow, including data preparation, dimensional modeling, DAX development, dashboard design, validation, and business insight generation.
+
+The project focuses on analytical workflow, data modeling, and dashboard development rather than large-scale data engineering, predictive modeling, or production-level financial reporting.
+
 ## Data Model
 The solution uses a dimensional model with `tblTransactions` and a dedicated `DimDate` table.
 
