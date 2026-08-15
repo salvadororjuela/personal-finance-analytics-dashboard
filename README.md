@@ -9,7 +9,7 @@ The final two-page dashboard provides an overview of income, expenses, net cash 
 
 ## Project Files
 
-- **Power BI Dashboard** — [Power BI Desktop file](Power-BI/Personal_Finance_Analytics_Dashboard.pbix)
+- **Power BI Dashboard** — [Power BI project files](Power-BI/)
 - **Source Dataset** — [Excel source data](data/)
 - **Dashboard Screenshots** — [Dashboard previews](screenshots/)
 - **Project Documentation** — [Technical documentation](documentation/)
